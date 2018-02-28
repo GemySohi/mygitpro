@@ -6,6 +6,9 @@ package day1.examples;
  */
 public class bankaccount 
 {
+	
+	
+	
 private double balance;
 
 
